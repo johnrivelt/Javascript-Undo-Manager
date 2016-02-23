@@ -1,6 +1,6 @@
 {
-  "name": "undo-manager",
-  "version": "1.0.5",
+  "name": "johnc-undo-manager",
+  "version": "1.0.6",
   "description": "Simple undo manager to provide undo and redo actions.",
   "main": "lib/undomanager.js",
   "keywords": [
